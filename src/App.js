@@ -5,7 +5,7 @@ import WeatherCard from './components/WeatherCard';
 import Loader from './components/Loader';
 import ErrorMessage from './components/ErrorMessage';
 import RecentSearches from './components/RecentSearches';
-import Forecast from './components/Forecast'; // Adjusted capitalization for consistency
+import Forecast from './components/forecast'; // Adjusted capitalization for consistency
 import useWeather from './hooks/useWeather'; // Custom hook for fetching weather data
 import './styles/App.css';
 
